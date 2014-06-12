@@ -2,6 +2,8 @@ package com.lenovo.model;
 
 public class User {
 	//test third branch  2
+	//test third branch 3
+	//test third branch 4
 	private String userName;
 	private String password;
 	public String getUserName() {
